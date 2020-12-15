@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-section {
+
+}
+
+.head {
+  width: 133px;
+  height: 25px;
+  margin-top: 40px;
+  margin-left: 77px;
+  font-family: 'Inconsolata', monospace;
+  font-weight: 700;
+}
+
+
+
+.guy {
+  width: 539.22px;
+  height: 414.25px;
+  top: 265px;
+  left: 77px;
+  position: absolute;
+
+}
+
+.title {
+  width: 586px;
+  height: 190px;
+  top: 265px;
+  left: 735px;
+  bottom: 625px;
+  position: absolute;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 95px;
+  margin: 0;
+  text-align: left;
+  letter-spacing: -0.035em;
+
+}
+
+.message {
+ width: 381px;
+ height: 108px;
+ top: 491px;
+ left: 736px;
+ bottom: 481px;
+ position: absolute;
+ font-family: 'Space Mono', monospace;
+ font-style: normal;
+ font-size: 18px;
+ font-weight: 400;
+ line-height: 36px;
+ letter-spacing: -0.035em;
+ margin: 0;
+ text-align: left;
+}
+
+.back-home {
+  position: absolute;
+}
+
