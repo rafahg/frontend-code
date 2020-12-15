@@ -44,6 +44,25 @@ body {
 
 }
 
+.back-home {
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 663px;
+  position: absolute;
+  background: #333333;
+}
+
+.button-text {
+  font-family: 'Space Mono', monospace;
+  color: white;
+  font-style: normal;
+  size: 14px;
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  padding: 24px;
+}
+
 .message {
  width: 381px;
  height: 108px;
@@ -65,3 +84,11 @@ body {
   position: absolute;
 }
 
+.bottom-message {
+  margin: 0;
+  position: absolute;
+  width: 226px;
+  height: 17px;
+  left: 607px;
+  bottom: 39px;
+}
